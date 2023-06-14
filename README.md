@@ -1,0 +1,1 @@
+# Lenovo-Ideapad-3-15ADA05-Hackintosh
