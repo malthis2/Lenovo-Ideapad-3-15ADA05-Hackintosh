@@ -1,6 +1,6 @@
 # Lenovo Ideapad 3 15ADA05 Hackintosh EFI - macOS Sonoma 14.0 (23A5257q)
 
-![Screenshot - About this Mac](/showcase.png)
+![Screenshot - About this Mac](/Capture d’écran 2023-06-14 à 18.10.09.png)
 
 ---
 
