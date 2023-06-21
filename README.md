@@ -18,7 +18,6 @@
 - Ethernet
 - HDMI Port
 - Battery indicator
-- Speakers
 - Graphics
 - USB Port (Partially)
 - M.2 NVMe SSD
@@ -34,4 +33,5 @@
 - Bluetooth
 - Trackpad
 - Headphone jack
+- Speakers
 
